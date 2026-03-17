@@ -21,7 +21,7 @@ A simple HTML form built to collect student information, including personal deta
 
 ## 📸 Screenshot
 
-![Student Form Screenshot](screenshot.png)
+![Student Form Screenshot](/images/screenshot.png)
 
 ## 📂 Project Structure
 
